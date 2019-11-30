@@ -9,5 +9,5 @@ tags={
 	"Map"
 }
 name="Legacy of the Peace (TEST)"
-supported_version="1.8.1"
+supported_version="1.7.1"
 remote_file_id="1923256277"
