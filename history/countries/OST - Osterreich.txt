@@ -25,10 +25,10 @@ set_politics = {
 	}
 }
 set_popularities = {
-	democratic = 30.00
-	fascism = 60.00
-	communism = 5.00
-	neutrality = 5.00
+	democratic = 0.00
+	fascism = 100.00
+	communism = 0.00
+	neutrality = 0.00
 }
 
 #Politics for 1939.1.1
@@ -41,10 +41,10 @@ set_popularities = {
 		}
 	}
 	set_popularities = {
-		democratic = 30.00
-		fascism = 60.00
-		communism = 5.00
-		neutrality = 5.00
+		democratic = 0.00
+		fascism = 100.00
+		communism = 0.00
+		neutrality = 0.00
 	}
 }
 
@@ -52,7 +52,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Adolf Hitler"
 	desc = ""
-	picture = "Adolf_Hitler.dds"
+	picture = "//leader_unknown.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = { }

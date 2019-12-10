@@ -301,6 +301,12 @@ spriteTypes = {
 		texturefile = "gfx//interface//icon_twitter.dds"
 		noOfFrames = 1
 	}
+	
+		spriteType = {
+		name = "privacy"
+		texturefile = "gfx//interface//icon_privacy.dds"
+		noOfFrames = 1
+	}
 	spriteType = {
 		name = "homepage"
 		texturefile = "gfx//interface//icon_homepage.dds"
@@ -309,11 +315,6 @@ spriteTypes = {
 	spriteType = {
 		name = "privacy"
 		texturefile = "gfx//interface//icon_privacy.dds"
-		noOfFrames = 1
-	}
-	spriteType = {
-		name = "achievements"
-		texturefile = "gfx//interface//icon_achievements.dds"
 		noOfFrames = 1
 	}
 	spriteType = {

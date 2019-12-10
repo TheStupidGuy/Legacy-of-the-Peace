@@ -2656,19 +2656,19 @@ focus_tree = {
 			682 = {
 				add_resource = {
 					type = aluminium
-					amount = 20
+					amount = 14
 				}
 			}
 			466 = {
 				add_resource = {
 					type = aluminium
-					amount = 8
+					amount = 4
 				}
 			}
 			468 = {
 				add_resource = {
 					type = aluminium
-					amount = 8
+					amount = 4
 				}
 			}
 		}
