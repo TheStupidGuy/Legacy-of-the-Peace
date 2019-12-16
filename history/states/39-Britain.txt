@@ -14,26 +14,16 @@ state={
 		victory_points = {
 			11598 1
 		}
-		#owner = ITA
+		owner = ITA
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
 		}
 		add_core_of = ITA
 		add_core_of = AUS
+	}
 
-##State edits start
-
-##State edit for OST after 1936.1.1
-1936.1.1 = {
-	add_core_of = OST
-	owner = OST
-	controller = OST
-}
-
-##State edits end
-}
-provinces={
+	provinces={
 		656 6631 6675 9598 9630 11598 11615 
 	}
 }

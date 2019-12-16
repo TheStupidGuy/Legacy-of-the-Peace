@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		#owner = AUS
+		owner = AUS
 		victory_points = {
 			673 5 
 		}
@@ -19,23 +19,13 @@ state={
 		add_core_of = AUS
 
 		1938.3.12 = {
-			#owner = GER
-			#controller = GER
+			owner = GER
+			controller = GER
 			add_core_of = GER
 		}
+	}
 
-##State edits start
-
-##State edit for OST after 1936.1.1
-1936.1.1 = {
-	add_core_of = OST
-	owner = OST
-	controller = OST
-}
-
-##State edits end
-}
-provinces={
+	provinces={
 		668 671 673 3675 6673 6678 6680 9633 9636 11618 11634 
 	}
 }
